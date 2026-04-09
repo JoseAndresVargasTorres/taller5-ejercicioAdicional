@@ -18,7 +18,6 @@ y mediana escala, sin necesidad de conocimientos avanzados en electrónica.
 |Sensor de temperatura|Analógica|Mide la temperatura interior en °C|
 |Sensor de humedad|Analógica|Mide el porcentaje de humedad relativa|
 |Botón de modo manual|Digital|Permite al usuario tomar control directo|
-
 |Sensor de Luz |Analógica|Mide la luminosidad interior en lux |
 |-|-|-|
 
@@ -32,6 +31,7 @@ y mediana escala, sin necesidad de conocimientos avanzados en electrónica.
 |Calefactor|Digital|Se activa cuando la temperatura baja del límite|
 |Pantalla LCD|Digital|Muestra temperatura, humedad y modo activo|
 |LED de alerta|Digital|Parpadea si los valores están fuera del rango|
+| Bomba de riego| Digital| Se activa cuando la humedad baja del mínimo|
 
 
 
